@@ -7,3 +7,4 @@ friends[3] = 3
 friends[4] = 1
 
 puts friends.sort()
+puts friends.include? 4
